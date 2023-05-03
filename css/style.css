@@ -1,0 +1,17 @@
+body {
+  background-color: purple;
+  background-repeat: repeat-x;
+  background-position: right top;
+  background-attachment: fixed;
+}
+h1 {
+  color: tomato;
+  border: 2px solid green;
+}
+button{
+  height: 50px;
+  width: 100px;
+  color:red;
+  background-color: greenyellow;
+  margin-left: 399px;
+}

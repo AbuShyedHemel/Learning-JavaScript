@@ -5,6 +5,8 @@ body {
   background-attachment: fixed;
 }
 h1 {
+  outline: 7px solid black;
+  outline-offset: 5px;
   color: tomato;
   border-color: red green blue;
   border-style: solid;
@@ -23,5 +25,10 @@ button {
   color: red;
   background-color: greenyellow;
   margin-left: 120px;
+}
+#image{
+  height: 200px;
+  margin: 25px;
+  max-width: 900px;
 }
 

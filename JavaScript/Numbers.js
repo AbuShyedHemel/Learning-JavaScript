@@ -17,5 +17,5 @@ function Numbers() {
   let p = Infinity //type number
   let q = a.toString(2)//binary value
   let r = new Number(32)//type object
-  document.getElementById("demo").innerHTML = a === r;
+  document.getElementById("demo").innerHTML = a ;
 }
